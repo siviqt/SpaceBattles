@@ -1,0 +1,29 @@
+# ESP-IDF output and downloaded dependencies
+/build*/
+/managed_components/
+/sdkconfig
+/sdkconfig.old
+# Local tools, credentials and caches
+/.agents/
+/.codex/
+/.aws/
+/.env
+/.env.*
+/.idea/
+/.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Compiled output and diagnostics
+*.o
+*.obj
+*.a
+*.elf
+*.bin
+*.map
+*.log
+*.dump
+*.core
+*.bak
+*.old
+*.orig
